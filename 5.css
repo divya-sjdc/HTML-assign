@@ -1,0 +1,15 @@
+#A{
+    color: whitesmoke;
+    background-color: rgb(219, 140, 22);
+    font-family: 'Courier New', Courier, monospace;
+}
+#B{
+    color: bisque;
+    background-color: rgb(184, 125, 125);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#C{
+    color: yellow;
+    background-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
